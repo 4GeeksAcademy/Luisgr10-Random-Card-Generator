@@ -6,7 +6,7 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 let heart = //Con esta variable estoy agregando la informacion de los iconos para luego agregarlas a la funcion ramdomCard
-  '<i class="bi bi-suit-heart-fill" style="color: red; font-size: 50px;"></i>'; // tambien he jugado con el estilo para hacerlas mas grande y rojas tanto diamantes como corazones
+  '<i class="bi bi-suit-heart-fill" style="color: red; font-size: 50px;" ></i>'; // tambien he jugado con el estilo para hacerlas mas grande y rojas tanto diamantes como corazones
 
 let club = '<i class="bi bi-suit-club-fill" style="font-size: 50px;"></i>';
 let diamond =
